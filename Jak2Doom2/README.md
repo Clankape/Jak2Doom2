@@ -70,7 +70,9 @@ Alternative:
 
 The **Steam** version works perfectly
 
+You can modify this WAD file; I've uploaded all the custom textures.
 
+If you're motivated to continue this project with Ultimate Doom Builder :)
 
 
 
